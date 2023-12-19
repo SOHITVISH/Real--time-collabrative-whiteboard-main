@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "netlify-lambda": "^2.0.15",
+    "serverless-http": "^3.0.1",
+    "socket.io": "^4.4.1"
+  },
+  "name": "industry_problem_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Pranav Kalwad",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
